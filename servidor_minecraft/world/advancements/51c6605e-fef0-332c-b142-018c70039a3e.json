@@ -717,7 +717,8 @@
     "criteria": {
       "minecraft:creeper": "2025-03-23 21:45:47 +0000",
       "minecraft:silverfish": "2025-03-23 21:57:11 +0000",
-      "minecraft:zombie": "2025-03-23 21:45:49 +0000"
+      "minecraft:zombie": "2025-03-23 21:45:49 +0000",
+      "minecraft:zombie_villager": "2025-03-24 23:35:27 +0000"
     },
     "done": false
   },
@@ -1612,6 +1613,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-24 23:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-24 23:38:07 +0000"
     },
     "done": true
   },
