@@ -1,66 +1,41 @@
-[23:18:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:19:00] [ServerMain/INFO]: Loaded 7 recipes
-[23:19:01] [ServerMain/INFO]: Loaded 1271 advancements
-[23:19:02] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[23:19:02] [Server thread/INFO]: Loading properties
-[23:19:02] [Server thread/INFO]: Default game type: SURVIVAL
-[23:19:02] [Server thread/INFO]: Generating keypair
-[23:19:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:19:02] [Server thread/INFO]: Using epoll channel type
-[23:19:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:19:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:19:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:19:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:19:02] [Server thread/INFO]: Preparing level "world"
-[23:19:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:19:28] [Server thread/INFO]: Time elapsed: 16843 ms
-[23:19:28] [Server thread/INFO]: Done (26.094s)! For help, type "help"
-[23:19:41] [Server thread/INFO]: Thecno662[/127.214.93.49:48515] logged in with entity id 110 at (1460.449592417194, 12.0, -198.51480549275894)
-[23:19:42] [Server thread/INFO]: Thecno662 joined the game
-[23:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[23:21:15] [Server thread/INFO]: [Thecno662: Gave 1 [Stone] to Thecno662]
-[23:21:22] [Server thread/INFO]: [Thecno662: Gave 64 [Stone] to Thecno662]
-[23:22:25] [Server thread/INFO]: [Thecno662: Gave 64 [Stone] to Thecno662]
-[23:28:17] [Server thread/INFO]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
-[23:29:35] [Server thread/INFO]: [Thecno662: Gave 3 [Bucket] to Thecno662]
-[23:30:46] [Server thread/INFO]: [Thecno662: Gave 24 [Steak] to Thecno662]
-[23:34:24] [Server thread/INFO]: Villager byb['Villager'/255, l='ServerLevel[world]', x=1446.24, y=111.84, z=-310.49] died, message: 'Villager was slain by Zombie'
-[23:36:54] [Server thread/INFO]: [Thecno662: Gave 1 [Diamond] to Thecno662]
-[23:38:07] [Server thread/INFO]: Thecno662 has made the advancement [Enchanter]
-[23:45:47] [Server thread/INFO]: Thecno662 lost connection: Disconnected
-[23:45:47] [Server thread/INFO]: Thecno662 left the game
-[23:45:51] [Server thread/INFO]: Thecno662[/127.214.93.49:44885] logged in with entity id 4314 at (1459.2940175728459, 126.0, -240.64724099558603)
-[23:45:51] [Server thread/INFO]: Thecno662 joined the game
+[20:22:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:22:45] [ServerMain/INFO]: Loaded 7 recipes
+[20:22:45] [ServerMain/INFO]: Loaded 1271 advancements
+[20:22:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:22:46] [Server thread/INFO]: Loading properties
+[20:22:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:46] [Server thread/INFO]: Generating keypair
+[20:22:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:22:46] [Server thread/INFO]: Using epoll channel type
+[20:22:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:22:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:22:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:22:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:22:46] [Server thread/INFO]: Preparing level "world"
+[20:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:01] [Server thread/INFO]: Time elapsed: 9026 ms
+[20:23:01] [Server thread/INFO]: Done (14.921s)! For help, type "help"
+[20:23:12] [Server thread/INFO]: Thecno662[/127.224.230.41:34949] logged in with entity id 107 at (1459.7814077421313, 126.0, -243.6870492670948)
+[20:23:12] [Server thread/INFO]: Thecno662 joined the game
+[20:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[20:23:17] [Server thread/INFO]: Rumo_fr3[/127.103.1.35:48531] logged in with entity id 216 at (1470.6597836800381, 122.0, -245.29899397850434)
+[20:23:17] [Server thread/INFO]: Rumo_fr3 joined the game
+[20:25:07] [Server thread/INFO]: Thecno662 has made the advancement [Not Today, Thank You]
